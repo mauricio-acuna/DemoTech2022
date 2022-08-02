@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<settings>
+  <mirrors>
+    <mirror>
+      <id>earlyaccess</id>
+      <mirrorOf>*earlyaccess*</mirrorOf>
+      <url>http://nexus3-cicd.popenshift.fintechmautech.com.ar/repository/earlyaccess/</url>
+    </mirror>
+    <mirror>
+      <id>redhat_ga</id>
+      <mirrorOf>*redhat_ga*</mirrorOf>
+      <url>http://nexus3-cicd.popenshift.fintechmautech.com.ar/repository/redhat_ga/</url>
+    </mirror>  
+    <mirror>
+      <id>nexus</id>
+      <mirrorOf>*maven-public*</mirrorOf>
+      <url>http://nexus3-cicd.popenshift.fintechmautech.com.ar/repository/maven-public</url>
+    </mirror>
+  </mirrors>
+  <servers>
+    <server>
+      <id>nexus</id>
+      <username>dev1</username>
+      <password>dev1</password>
+    </server>
+  </servers>
+</settings>

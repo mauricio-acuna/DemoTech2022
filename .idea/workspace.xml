@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="172ba0cf-f0ed-4eaf-ae1b-4d263ce3a4d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/login-api-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/settingsOld.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/_2_0_0/AccionesCanalesAlternativos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/_2_0_0/AccionesCanalesAlternativos_AccionesCanalesAlternativos_Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/_2_0_0/AccionesCanalesAlternativos_Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/_2_0_0/BGBAResultadoOperacionFalla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionrequest/_2_0_0/EstadoAdhesion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionrequest/_2_0_0/EstadoMigracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionrequest/_2_0_0/LoginClienteFisicoConIdentificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionrequest/_2_0_0/LoginClienteFisicoConIdentificacionRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionrequest/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionrequest/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionresponse/_2_0_0/LoginClienteFisicoConIdentificacionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionresponse/_2_0_0/LoginClienteFisicoConIdentificacionResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionresponse/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientefisicoconidentificacionresponse/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionrequest/_2_0_0/EstadoAdhesion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionrequest/_2_0_0/EstadoMigracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionrequest/_2_0_0/LoginClienteJuridicoConIdentificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionrequest/_2_0_0/LoginClienteJuridicoConIdentificacionRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionrequest/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionrequest/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionresponse/_2_0_0/LoginClienteJuridicoConIdentificacionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionresponse/_2_0_0/LoginClienteJuridicoConIdentificacionResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionresponse/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientejuridicoconidentificacionresponse/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientesimplificadorequest/_1_0_0/LoginClienteSimplificado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientesimplificadorequest/_1_0_0/LoginClienteSimplificadoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientesimplificadorequest/_1_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientesimplificadorequest/_1_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientesimplificadoresponse/_1_0_0/LoginClienteSimplificadoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientesimplificadoresponse/_1_0_0/LoginClienteSimplificadoResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientesimplificadoresponse/_1_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/loginclientesimplificadoresponse/_1_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/logincontarjetarequest/_2_0_0/LoginConTarjeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/logincontarjetarequest/_2_0_0/LoginConTarjetaRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/logincontarjetarequest/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/logincontarjetarequest/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/logincontarjetaresponse/_2_0_0/LoginConTarjetaResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/logincontarjetaresponse/_2_0_0/LoginConTarjetaResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/logincontarjetaresponse/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/logincontarjetaresponse/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraradhesionmetodoautenticacionrequest/_1_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraradhesionmetodoautenticacionrequest/_1_0_0/RegistrarAdhesionMetodoAutenticacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraradhesionmetodoautenticacionrequest/_1_0_0/RegistrarAdhesionMetodoAutenticacionRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraradhesionmetodoautenticacionrequest/_1_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraradhesionmetodoautenticacionresponse/_1_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraradhesionmetodoautenticacionresponse/_1_0_0/RegistrarAdhesionMetodoAutenticacionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraradhesionmetodoautenticacionresponse/_1_0_0/RegistrarAdhesionMetodoAutenticacionResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraradhesionmetodoautenticacionresponse/_1_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registrarinteraccionesrequest/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registrarinteraccionesrequest/_2_0_0/RegistrarInteracciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registrarinteraccionesrequest/_2_0_0/RegistrarInteraccionesRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registrarinteraccionesrequest/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registrarinteraccionesresponse/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registrarinteraccionesresponse/_2_0_0/RegistrarInteraccionesResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registrarinteraccionesresponse/_2_0_0/RegistrarInteraccionesResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registrarinteraccionesresponse/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraroperacionesmonetariasrequest/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraroperacionesmonetariasrequest/_2_0_0/RegistrarOperacionesMonetarias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraroperacionesmonetariasrequest/_2_0_0/RegistrarOperacionesMonetariasRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraroperacionesmonetariasrequest/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraroperacionesmonetariasresponse/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraroperacionesmonetariasresponse/_2_0_0/RegistrarOperacionesMonetariasResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraroperacionesmonetariasresponse/_2_0_0/RegistrarOperacionesMonetariasResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionescanalesalternativos/registraroperacionesmonetariasresponse/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/_1_0_0/AccionesSeguridadOmnichannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/_1_0_0/AccionesSeguridadOmnichannel_AccionesSeguridadOmnichannel_Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/_1_0_0/AccionesSeguridadOmnichannel_Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/_1_0_0/BGBAResultadoOperacionFalla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/generarsemillarequest/_1_0_0/GenerarSemilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/generarsemillarequest/_1_0_0/GenerarSemillaRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/generarsemillarequest/_1_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/generarsemillarequest/_1_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/generarsemillaresponse/_1_0_0/GenerarSemillaResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/generarsemillaresponse/_1_0_0/GenerarSemillaResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/generarsemillaresponse/_1_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/accionesseguridadomnichannel/generarsemillaresponse/_1_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_1_0_0/BGBAHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_1_0_0/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_1_0_0/Consumidores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_1_0_0/IdOperacionUnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_1_0_0/ModuloAplicativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_1_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_1_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/BGBAHeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/IdCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/IdMensaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/Identificadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/ModuloAplicativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/Operador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/OrganizacionInterna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/Origen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaheader/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaresultadooperacion/_2_0_0/BGBAResultadoOperacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaresultadooperacion/_2_0_0/BGBAResultadoOperacionFalla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaresultadooperacion/_2_0_0/BGBAResultadoOperacionLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaresultadooperacion/_2_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaresultadooperacion/_2_0_0/Severidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaresultadooperacion/_2_0_0/Severidad2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbaresultadooperacion/_2_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/ClaseProductoCatalogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/ClaseProductoNV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Codigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Codigov2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Domicilio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Domicilio2Salida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/DomicilioFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/IdCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/IdCuenta2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/IdCuentaPasivas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/IdCuentaTarjetas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/IdProductoBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/IdProductoNV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/IdProductoNV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Monto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Montov2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/NumeroCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/NumeroCuentav2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/OrganizacionInterna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Periodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Saldo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/Saldov2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/TelefonoBasico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/TelefonoBasicoCodigoDeUso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatiposbase/_3_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatipossoporte/_3_0_0/DomicilioFisicoConVacios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatipossoporte/_3_0_0/Monto162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatipossoporte/_3_0_0/Monto97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatipossoporte/_3_0_0/Monto98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatipossoporte/_3_0_0/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/ar/com/bancogalicia/ws/webservices/globales/bgbatipossoporte/_3_0_0/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/LoginApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/config/JmsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/config/MeesagePost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/controllers/CheckToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/controllers/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/controllers/PublicKeyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/controllers/PutMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/dataencryption/DataEncryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/dataencryption/FrontEndOmniDataEncryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/dataencryption/exception/.dm/.items.dmdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/dataencryption/exception/DataEncryptionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/entities/BGBACredential.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/entities/UserIds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/DESCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/HSCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/KeyProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/Scrambler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/Scs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/ScsDESCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/ScsHSCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/ScsImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/ScsKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/scs/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/services/JWTToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/services/ValidatorUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/BGBAServiceMapperException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/handlers/BGBALoginServiceHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/handlers/BGBASeedServiceHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/mappers/BGBAHeaderGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/mappers/BGBAHeaderV2SpanishGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/mappers/BGBAMapperCustomImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/mappers/BGBARequestLoginServiceMapperCustomImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/mappers/BGBARequestSeedServiceMapperCustomImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/mappers/BGBAResponseLoginServiceMapperCustomImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/mappers/BGBAResponseSeedServiceMapperCustomImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/java/com/bgba/webservices/mappers/BGBAServiceMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-api-master/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c899cb52-3e5e-445a-bc8b-a4cdbb391d8e" />
+        <option name="url" value="https://github.com/maundroidios/DemoTech2022.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Cnn3uWur5tebO0WnAEB9Auj60b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/macuna/IdeaProjects/DemoTech2022/ziped"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ziped" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="172ba0cf-f0ed-4eaf-ae1b-4d263ce3a4d5" name="Changes" comment="" />
+      <created>1659447029455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659447029455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
